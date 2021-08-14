@@ -1,3 +1,3 @@
 # thesisNadhra
 
-This reporsitory is for my thesis writing
+This repository is for my thesis writing
