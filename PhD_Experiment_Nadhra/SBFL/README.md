@@ -1,17 +1,7 @@
-# Fault localization - Defects4j
+# SBFL - Defects4j
 
 Dataset is from Defects4j, available here: (https://github.com/rjust/defects4j).
 
-
-The techniques that are used are:
-
-* Tarantula
-* Ochiai
-* Opt2
-* Barinel
-* Dstar2
-* Muse
-* Jaccard
 
 Steps:
 
