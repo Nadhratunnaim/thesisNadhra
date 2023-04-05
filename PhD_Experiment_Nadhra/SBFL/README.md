@@ -16,7 +16,7 @@ Steps:
 
 5) The suspiciousness values can be generated using `suspiciousness.py` file. Run suspiciousness as follow:
    eg : python3 suspiciousness.py --data-dir /Users/nadhra/Downloads/Phd_research/Nadhra_paper_coding/1_Fault_Localization/coverage --output-dir /Users/nadhra/Downloads/Phd_research/Nadhra_paper_coding/1_Fault_Localization/suspiciousness --formula ochiai
-   (formula 'all' can be replace with {muse,all,ochiai,tarantula,dstar2,jaccard,barinel,opt2} if only want to use specific technique and not all).
+   (formula can be replace with {muse,all,ochiai,tarantula,dstar2,jaccard,barinel,opt2}).
 
 6) In suspiciousness file output will generated for formula that has been requested.
 
