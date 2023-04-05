@@ -1,4 +1,4 @@
-#IR-Based#
+## IR-Based
 Implementation of IR using cosine similarity of word vectors from pre-trained Word2Vec embeddings as the similarity metric.
 
 ## Instructions:
